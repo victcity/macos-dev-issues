@@ -8,9 +8,9 @@ Documenting issues encountered during macOS development & operations, with detai
 
 ## 目录 / Index
 
-| 日期 / Date | 问题 / Issue | 领域 / Domain |
-|---|---|---|
-| 2026-06-18 | [Talkie 1930 13B: Metal GPU 输出垃圾 token](issues/2026-06-18-talkie-metal-gpu/) | LLM / llama.cpp / Metal |
+| 日期 / Date | 问题 / Issue | 领域 / Domain | English |
+|---|---|---|---|
+| 2026-06-18 | [Talkie 1930 13B: Metal GPU 输出垃圾 token](issues/2026-06-18-talkie-metal-gpu/) | LLM / llama.cpp / Metal | [English](issues/2026-06-18-talkie-metal-gpu/README.en.md) |
 
 ---
 

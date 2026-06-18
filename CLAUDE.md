@@ -70,7 +70,7 @@ touch issues/YYYY-MM-DD-short-slug/assets/.gitkeep
 在 `## 目录 / Index` 下的表格中新增一行：
 
 ```markdown
-| YYYY-MM-DD | [中文标题](issues/slug/) | 领域标签 | [English](issues/slug/README.en.md) |
+| YYYY-MM-DD | [中文标题](issues/slug/README.zh.md) | 领域标签 | [English](issues/slug/README.en.md) |
 ```
 
 领域标签示例: `LLM / llama.cpp / Metal`、`Homebrew / CLI`、`Python / pip`、`Docker / macOS`
@@ -139,7 +139,7 @@ git push origin main
 ```
 | 日期 / Date | 问题 / Issue | 领域 / Domain | English |
 |---|---|---|---|
-| 2026-06-18 | [标题](issues/slug/) | tag1 / tag2 | [English](issues/slug/README.en.md) |
+| 2026-06-18 | [标题](issues/slug/README.zh.md) | tag1 / tag2 | [English](issues/slug/README.en.md) |
 ```
 
 - 日期列使用中文日期链接到 Issue 目录

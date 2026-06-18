@@ -9,7 +9,7 @@
 - **设备**: Apple M1 (MacBook Air), 16 GB RAM
 - **系统**: macOS 26 (Darwin 25.5.0, arm64)
 - **推理引擎**: whisper.cpp (CoreML ANE + Metal GPU + Accelerate BLAS)
-- **测试音频**: 2h18m 中文播客（王骁×翟东升），含人名、地名、成语等难点
+- **测试音频**: 2h18m 中文播客，含人名、地名、成语等难点
 - **测试片段**: 3 分钟段落用于横向对比
 
 ## 候选模型

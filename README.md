@@ -10,6 +10,8 @@ Documenting issues encountered during macOS development & operations, with detai
 
 | 日期 / Date | 问题 / Issue | 领域 / Domain | English |
 |---|---|---|---|
+| 2026-06-18 | [Whisper 中文 ASR 模型选型实测对比](issues/2026-06-18-whisper-chinese-model-benchmark/) | LLM / whisper.cpp / ASR / Benchmark | [English](issues/2026-06-18-whisper-chinese-model-benchmark/README.en.md) |
+| 2026-06-18 | [whisper.cpp 便携部署路径迁移修复](issues/2026-06-18-whisper-cpp-portable-path/) | whisper.cpp / macOS / Deployment | [English](issues/2026-06-18-whisper-cpp-portable-path/README.en.md) |
 | 2026-06-18 | [Talkie 1930 13B: Metal GPU 输出垃圾 token](issues/2026-06-18-talkie-metal-gpu/) | LLM / llama.cpp / Metal | [English](issues/2026-06-18-talkie-metal-gpu/README.en.md) |
 
 ---

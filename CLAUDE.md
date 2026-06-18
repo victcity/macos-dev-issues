@@ -142,7 +142,7 @@ git push origin main
 | 2026-06-18 | [标题](issues/slug/README.zh.md) | tag1 / tag2 | [English](issues/slug/README.en.md) |
 ```
 
-- 日期列使用中文日期链接到 Issue 目录
+- 日期列使用中文日期链接到对应中文文档 README.zh.md
 - 领域列用 `/` 分隔标签，标签越具体越好
 - English 列链接到对应的英文 README
 
